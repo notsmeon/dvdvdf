@@ -1,0 +1,48 @@
+LEXICON = {
+    '/start': '<b>Hi</b>👋 \n\n'
+            '<b>This is a bot from @R60GB, in which</b>\n'
+            '<b>you can purchase different tariff plans</b>\n' 
+            '<b>for our VIP channels</b>💞\n\n'
+            '<b>as well as familiarize yourself with</b>\n' 
+            '<b>the content of VIP channels.</b>\n\n' 
+            '<b>You can subscribe to all our channels</b>\n' 
+            '<b>to participate in the</b>\n'
+            '<b>competition for access to our VIP</b>🫶', 
+    '/help':'If you are confused about the functionality of the bot,' 
+            'just restart it with the /start\n' 
+            'command, and then follow the buttons\n' 
+            'that are attached to the messages\n\n'
+            'If you want to buy access to the VIP:\n press /pay', 
+   'awesfeet': '<b>FootFetish VIP(+18)\n\n' 
+            '3000+ media\n\n'    
+            'Categories:\n'
+            'Teens, Femdom, Sniff, nylon, Tights, '
+            'Selfworship, Worship, footjob, cum on feet, '
+            'domination, Socks, Shoes, Reverse, Asian, '
+            'Arab, Toes, Heels, Blowjob, Anal, BBC '
+            'and 40+ tags more!\n\n'
+            'You can look at the examples:</b>\n\n'
+            'https://t.me/+pKPXSJPKtEE3ZDMy\n\n'
+            '<b>🐾PRICE - 3$</b>🐾', 
+    'ffanime': '<b>Hentai FootFetish(+18)\n\n'
+           'Categories:\n'
+           'Loli, Pregnant, Hardcore, Footjob, Monster, '
+           'Socks, Wetfeet, cum on feet, Shoes, 3D, 2D, '
+           'And 30+ tags more\n'
+           'You can look at the examples:</b>\n\n'
+           'https://t.me/+pNJlKl0pplplOTZi\n\n'
+           '🐾<b>PRICE - 3$</b>🐾', 
+    'ru_pay': '<b>Для оплаты русской картой\n'
+           'Необходимо написать администратору -</b> @R60GBadmin\n\n'
+           '<b>Цена при переводе повышена - 350 рублей\n\n'
+           'Старайтесь экономить своё время и время администратора.\n'
+           'Сформулируйте свой вопрос в одном сообщении, это\n'
+           'повлияет на скорость ответа на ваш вопрос.</b>', 
+    'admin_contact': '<b>Contact for feedback on administration:<\b>\n' 
+        '@R60GBadmin',
+    'TOTAL_CHANNELS': 'A favorable rate through which you can' 
+           'save money.\n'
+           'After purchase you are given'
+           'access to <b>two VIP channels at once</b>\n' 
+           '(FootFetish VIP + Hentai FootFetish VIP)\n\n <b>PRICE - 5$</b>'
+           } 
